@@ -1,0 +1,4 @@
+local_path=/home/ubuntu/tomcat/apache-tomcat-7.0.68/webapps/HPtree/tree/
+dfs_path=/user/ubuntu/HPtree/
+filename=example.fasta
+reduce_number=3
